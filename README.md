@@ -2,13 +2,11 @@
 
 My name is Hariadiny.
 
- I'm a student of systems development analysis and I started learning about front-end a few months ago.  
-
-                                👾👾👾
+ I'm a student of systems development analysis and I started learning about front-end a few months ago.  👾👾👾
 
 I'm increasingly confident and excited about my learning, and I hope to be able to contribute to my efforts in the future! 🚀✨
 
-*“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge”* - *Stephen Hawking*
+**“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge”** - *Stephen Hawking*
 
 [![Linkedin Badge](https://img.shields.io/badge/-Hariadiny%20Mantovam-a8dadc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hariadiny-mantovam-9317631bb/)](https://www.linkedin.com/in/hariadiny-mantovam-9317631bb/)
 [![Instagram Badge](https://img.shields.io/badge/-hariadiny.m-a6808c?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hariadiny.m/)](https://www.instagram.com/hariadiny.m/)
