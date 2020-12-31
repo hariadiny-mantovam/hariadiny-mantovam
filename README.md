@@ -2,7 +2,7 @@
 
 My name is Hariadiny. 
 
- I'm a student of systems development analysis and I started learning about front-end a few months ago.  👾👾👾
+I started learning about front-end a few months ago.  👾👾👾
 
 I'm increasingly confident and excited about my learning, and I hope to be able to contribute to my efforts in the future! 🚀✨
 
