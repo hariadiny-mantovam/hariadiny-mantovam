@@ -10,9 +10,9 @@ Estou cada vez mais confiante e animada com meus aprendizados e espero poder con
 
 Find me 👇🏻
 
-[![Linkedin Badge](https://img.shields.io/badge/-Hariadiny%20Mantovam-a8dadc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hariadiny-mantovam-9317631bb/)](https://www.linkedin.com/in/hariadiny-mantovam-9317631bb/)
-[![Instagram Badge](https://img.shields.io/badge/-hariadiny.m-a6808c?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hariadiny.m/)](https://www.instagram.com/hariadiny.m/)
-[![Gmail Badge](https://img.shields.io/badge/-hariadiny.mantovam@gmail.com-f28482?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hariadiny.mantovam@gmail.com)](mailto:hariadiny.mantovam@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Hariadiny%20Mantovam-00509d?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hariadiny-mantovam-9317631bb/)](https://www.linkedin.com/in/hariadiny-mantovam-9317631bb/)
+[![Instagram Badge](https://img.shields.io/badge/-hariadiny.m-b56576?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hariadiny.m/)](https://www.instagram.com/hariadiny.m/)
+[![Gmail Badge](https://img.shields.io/badge/-hariadiny.mantovam@gmail.com-ba181b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hariadiny.mantovam@gmail.com)](mailto:hariadiny.mantovam@gmail.com)
 
 
 
