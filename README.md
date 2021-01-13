@@ -1,11 +1,10 @@
 ## Hello World! 👋🏻
 
-My name is Hariadiny. 
+Olá, meu nome é Hariadiny. Sou graduanda de contabilidade, mas recentemente comecei a me interessar pela área da tecnologia!
 
-I started learning about front-end a few months ago.  👾👾👾
+Iniciei meus estudos focando a aprender sobre front-end há alguns meses. 👾👾👾
 
-I'm increasingly confident and excited about my learning, and I hope to be able to contribute to my efforts in the future! 🚀✨
-
+Estou cada vez mais confiante e animada com meus aprendizados e espero poder contribuir com meus esforços no futuro! 🚀✨
 
 **“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge”** - *Stephen Hawking*
 
