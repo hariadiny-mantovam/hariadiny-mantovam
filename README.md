@@ -1,10 +1,8 @@
 ## Hello World! 👋🏻
 
-Olá, meu nome é Hariadiny. Sou graduanda de contabilidade, mas recentemente comecei a me interessar pela área da tecnologia!
+Olá, me chamo Hariadiny, tenho 21 anos, sou graduanda do último ano de Ciências Contábeis. Com o propósito de buscar desafios pessoais para evoluir minhas habilidades de lógica e racíocio comecei a estudar sobre programação e isso me levou a uma admiração e empenho para colocar meus esforços nessa área. 
 
-Iniciei meus estudos focando a aprender sobre front-end há alguns meses. 👾👾👾
-
-Estou cada vez mais confiante e animada com meus aprendizados e espero poder contribuir com meus esforços no futuro! 🚀✨
+Espero poder contribuir com meus esforços no futuro e construir projetos que ajudem outras pessoas! 🚀✨
 
 **“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge”** - *Stephen Hawking*
 
