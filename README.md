@@ -1,8 +1,6 @@
 ## Hello World! 👋🏻
 
-Olá, me chamo Hariadiny, tenho 21 anos, sou graduanda do último ano de Ciências Contábeis. Com o propósito de buscar desafios pessoais para evoluir minhas habilidades de lógica e racíocio comecei a estudar sobre programação e isso me levou a uma admiração e empenho para colocar meus esforços nessa área. 
-
-Espero poder contribuir com meus esforços no futuro e construir projetos que ajudem outras pessoas! 🚀✨
+🚀✨
 
 **“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge”** - *Stephen Hawking*
 
