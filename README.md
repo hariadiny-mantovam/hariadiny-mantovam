@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Fullstack`**
 
-Olá, chamo Hariadiny, tenho 25 anos e sou contadora e perita contábil. Atualmente, estou cursando de Tecnologia em Análise e Desenvolvimento de Sistemas na CEI. Sou apaixonada por tecnologia e amo explorar nonos desafios.
+Olá, chamo Hariadiny, tenho 25 anos e sou contadora e perita contábil. Atualmente, estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas no CEI. Sou apaixonada por tecnologia e amo explorar novos desafios.
 
 
 ### 🤖 Linguagens e Tecnologias
